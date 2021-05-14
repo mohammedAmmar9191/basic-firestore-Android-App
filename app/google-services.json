@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039512963173",
+    "firebase_url": "https://fir-helloworld-ae7fc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-helloworld-ae7fc",
+    "storage_bucket": "fir-helloworld-ae7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039512963173:android:bc04da48fa73833c891e8c",
+        "android_client_info": {
+          "package_name": "de.uni_marburg.sp21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039512963173-fk3hr513j3uvv0bg1e8ll3bsru49q2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc9Zm3lXz4vMOrPGI8ozxg4I_zOcptwyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039512963173-fk3hr513j3uvv0bg1e8ll3bsru49q2o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
